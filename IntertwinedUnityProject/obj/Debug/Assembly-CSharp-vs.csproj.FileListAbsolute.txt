@@ -1,0 +1,12 @@
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\UnityEditor.dll
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\UnityEngine.dll
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\Mono.Cecil.dll
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\nunit.framework.dll
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\Unity.DataContract.dll
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\obj\Debug\Assembly-CSharp.dll
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\obj\Debug\Assembly-CSharp.pdb
+D:\Paint Bi-Numbers\ paint-bi-numbers\Hackathon\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb

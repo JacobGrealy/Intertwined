@@ -1,0 +1,66 @@
+Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+desktop: 2560x1440 59Hz; virtual: 4240x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\System.Xml.dll (this message is harmless)
+Loading
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.178588 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 250.
+Total: 0.418466 ms (FindLiveObjects: 0.005864 ms CreateObjectMapping: 0.005864 ms MarkObjects: 0.086215 ms  DeleteObjects: 0.002345 ms)
+
+UnloadTime: 0.295301 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 536.
+Total: 0.480928 ms (FindLiveObjects: 0.013196 ms CreateObjectMapping: 0.007624 ms MarkObjects: 0.140172 ms  DeleteObjects: 0.006451 ms)
+
+UnloadTime: 1.040447 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 260.
+Total: 0.807314 ms (FindLiveObjects: 0.008210 ms CreateObjectMapping: 0.006744 ms MarkObjects: 0.145158 ms  DeleteObjects: 0.319054 ms)
+
+Saving
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: C:\Users\greal\Desktop\InterTwinedRepo\InterTwinedRepo\InterTwinedUnityProject\intertwined_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.150143 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 539.
+Total: 0.695586 ms (FindLiveObjects: 0.013489 ms CreateObjectMapping: 0.007917 ms MarkObjects: 0.268322 ms  DeleteObjects: 0.015248 ms)
+
+UnloadTime: 0.965962 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 260.
+Total: 1.041620 ms (FindLiveObjects: 0.007917 ms CreateObjectMapping: 0.006744 ms MarkObjects: 0.133135 ms  DeleteObjects: 0.343687 ms)
+
+Saving
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

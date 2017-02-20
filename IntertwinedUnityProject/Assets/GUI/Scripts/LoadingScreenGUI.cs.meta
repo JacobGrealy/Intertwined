@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: db654157894b25342b46fe4fcd835b50
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameSkin: {fileID: 11400000, guid: fc2a1a79b2100594aaf4111ca08605b0, type: 2}
+  - paintBiNumbersLogo: {fileID: 2800000, guid: 50a057fdb15091c4092a8a975b6e5aa1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
